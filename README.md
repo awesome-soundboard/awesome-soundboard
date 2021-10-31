@@ -22,8 +22,8 @@
 *Soundboard in french.*
 
 - [Kaamelott Soundboard](https://github.com/2ec0b4/kaamelott-soundboard) - A French comedy medieval fantasy television series.
-- [Hitman le Cobra le Soundboard](https://hitman-le-soundboard.herokuapp.com/) - An Hong Kong Z-series film which has gradually achieved cult film status.
-- [Dikkenek le Soundboard](https://dikkenek-le-soundboard.herokuapp.com/) - The Franco-Belgian comedy film which has attained cult status in France and Belgium because of its Belgian-type humor.
+- [Hitman le Cobra le Soundboard](https://git.io/JP2TK) - An Hong Kong Z-series film which has gradually achieved cult film status.
+- [Dikkenek le Soundboard](https://git.io/JPgjh) - The Franco-Belgian comedy film which has attained cult status in France and Belgium because of its Belgian-type humor.
 
 ## Contributing
 
