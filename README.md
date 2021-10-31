@@ -16,6 +16,7 @@
 
 - [Soundboard of Awesomeness](https://github.com/huijing/soundboard) - Random sound clips to annoy people, like the author say.
 - [Neil Rogers Soundboard](https://github.com/digitalcolony/simple-soundboard-svelte) - Various sounds.
+- [Online Soundboard](https://github.com/3kh0/soundboard) - A collection of sounds to play out of context.
 
 ## French
 
