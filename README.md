@@ -1,5 +1,5 @@
 <!--lint ignore awesome-git-repo-age-->
-# Awesome Soundboard [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# [Awesome Soundboard](https://git.io/JPWLi) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > 🔈 A curated list of awesome soundboards.
 
@@ -25,6 +25,9 @@
 - [Kaamelott Soundboard](https://github.com/2ec0b4/kaamelott-soundboard) - A French comedy medieval fantasy television series.
 - [Hitman le Cobra le Soundboard](https://git.io/JP2TK) - An Hong Kong Z-series film which has gradually achieved cult film status.
 - [Dikkenek le Soundboard](https://git.io/JPgjh) - The Franco-Belgian comedy film which has attained cult status in France and Belgium because of its Belgian-type humor.
+- [La 7e compagnie, le soundboard](https://github.com/ppnelles/Soundboard-7e-compagnie) - Le soundboard qui fait la tenaille, OKLM, dans la forêt de Machecoul.
+- [La boîte à Lopez](http://boitalopez.neuviemepage.com)
+- [La boîte à Mocky](http://boitamocky.neuviemepage.com)
 
 ## Contributing
 
