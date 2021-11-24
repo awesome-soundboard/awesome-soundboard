@@ -29,7 +29,7 @@
 - Add a section if needed.
     - Add the section description.
     - Add the section title to Table of Contents.
-- Search previous [Pull Requests](https://github.com/mehdichaouch/awesome-soundboard/pulls) or [Issues](https://github.com/mehdichaouch/awesome-soundboard/issues) before making a new one, as yours may be a duplicate.
+- Search previous [Pull Requests](https://github.com/awesome-soundboard/awesome-soundboard/pulls) or [Issues](https://github.com/awesome-soundboard/awesome-soundboard/issues) before making a new one, as yours may be a duplicate.
 - Don't mention `Soundboard` in the description as it's implied.
 - To verify that you've read all the guidelines, please comment on your pull request with just the word `unicorn`.
 - Check your spelling and grammar.

@@ -25,7 +25,7 @@ jobs:
           gem install awesome_bot
 
       - name: 🤖 Run Awesome Bot
-        run: awesome_bot README.md --allow-redirect --white-list awesome.re,github.com/mehdichaouch,twitter.com
+        run: awesome_bot README.md --allow-redirect --white-list awesome.re,github.com/awesome-soundboard,twitter.com
       - uses: actions/upload-artifact@v1
         if: failure()
         with:
